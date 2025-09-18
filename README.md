@@ -2,8 +2,7 @@
 
 Welcome to my portfolio! This project showcases my work, skills, and passion for Graphic Design and Web Development.
 
-🌐 Live Website: https://ayuenajakaguin.github.io
-
+🌐 Live Website: https://ayuenajakaguin.github.io/ayuenajakaguin-portfolio/
  About Me
 
 Creative Graphic Designer & Web Developer, blending visual innovation with modern web solutions.
